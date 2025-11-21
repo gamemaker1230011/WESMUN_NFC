@@ -5,6 +5,7 @@ import {SessionProvider} from "@/components/auth/session-provider"
 import {ThemeProvider} from "@/components/theme-provider"
 import {ThemeToggle} from "@/components/ui/theme-toggle"
 import "./globals.css"
+import StatusBarWrapper from "@/components/android-status-bar";
 
 export const metadata: Metadata = {
     title: "MUN NFC System",
@@ -14,25 +15,21 @@ export const metadata: Metadata = {
     },
 }
 
-export default function RootLayout({
-                                       children,
-                                   }: Readonly<{
-    children: React.ReactNode
-}>) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
     return (
         <html lang="en" suppressHydrationWarning>
-        <body className={`font-sans antialiased`}>
+        <body className="font-sans antialiased">
+        <StatusBarWrapper />
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
             <SessionProvider>
-                {/* Global theme toggle on all pages */}
                 <div className="fixed right-2 bottom-2 sm:right-4 sm:bottom-4 z-50">
                     <ThemeToggle />
                 </div>
                 {children}
             </SessionProvider>
         </ThemeProvider>
-        <Analytics/>
+        <Analytics />
         </body>
         </html>
-    )
+    );
 }
