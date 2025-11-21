@@ -5,6 +5,11 @@ import { StatusBar } from '@capacitor/status-bar';
 
 export default function StatusBarWrapper() {
     useEffect(() => {
+        // Check if device is Android
+        const isAndroid = navigator.userAgent.toLowerCase().includes("android");
+
+        if (!isAndroid) return; // exit early if not Android
+
         const initStatusBar = async () => {
             try {
                 await StatusBar.setOverlaysWebView({ overlay: false });
